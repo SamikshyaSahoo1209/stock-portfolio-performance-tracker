@@ -65,6 +65,7 @@ def calculate_performance(stock_prices):
 
         total_investment += investment
         total_value += current_value
+        
 
         print("\nStock:", symbol)
         print("Investment:", investment)
